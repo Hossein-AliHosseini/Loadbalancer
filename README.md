@@ -9,6 +9,7 @@ Clone the project
 
 ```bash
   git clone https://github.com/Hossein-AliHosseini/Loadbalancer.git
+  cd Loadbalancer
 ```
 
 Apply iptables rules
